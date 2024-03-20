@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson4-1-2", "Rubinskiy\Lesson4-1-2.csproj", "{FF87B6AB-8789-416A-83DE-7BF2DFA46CC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2", "Lesson2\Lesson2.csproj", "{5D25D003-4B44-4506-B1C9-BEC0D66B4CB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2Classwork", "Lesson2\Lesson2Classwork.csproj", "{5D25D003-4B44-4506-B1C9-BEC0D66B4CB4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5", "Lesson5\Lesson5.csproj", "{78EB2D5C-7DE1-4A43-A689-BF758E2D96AA}"
 EndProject

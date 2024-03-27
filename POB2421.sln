@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson6", "Lesson6\Lesson6.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson6_2", "Lesson6_2\Lesson6_2.csproj", "{D1D6731F-0BCB-4F57-A0D7-6D1A203C9B23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7Classwork", "Lesson7Classwork\Lesson7Classwork.csproj", "{9ACF60D8-B713-427B-B14F-84EB19DE4836}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson7Classwork", "Lesson7Classwork\Lesson7Classwork.csproj", "{9ACF60D8-B713-427B-B14F-84EB19DE4836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork Tema 8", "Classwork Tema 8\Classwork Tema 8.csproj", "{2F5904ED-3D35-432B-B252-4EFDB17A6922}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{9ACF60D8-B713-427B-B14F-84EB19DE4836}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ACF60D8-B713-427B-B14F-84EB19DE4836}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ACF60D8-B713-427B-B14F-84EB19DE4836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F5904ED-3D35-432B-B252-4EFDB17A6922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5904ED-3D35-432B-B252-4EFDB17A6922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5904ED-3D35-432B-B252-4EFDB17A6922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5904ED-3D35-432B-B252-4EFDB17A6922}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

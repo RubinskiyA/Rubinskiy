@@ -63,9 +63,14 @@ int money =int.Parse(Console.ReadLine());
 int bread = 30;
 int milk = 50;
 int butter = 40;
+int gloves = 300;
+int hat = 99;
+
 Console.WriteLine($"Хлеб - {bread}");
 Console.WriteLine($"Молоко - {milk}");
 Console.WriteLine($"Масло - {butter}");
+Console.WriteLine($"Перчатки - {gloves}");
+
 
 Console.Write("Введите количество хлеба:");
 int breadCount = int.Parse(Console.ReadLine());
